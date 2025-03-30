@@ -126,11 +126,26 @@ a {
 }
 
 /** TESTIMONIALS **/
+.testimonials {
+  padding: 60px 0;
+  background-color: #e5e7eb;
+}
 .testimonials .container {
   max-width: 680px;
 }
 
+.testimonial-text {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937;
+}
+
 .testimonial-sign {
+  font-size: 24px;
+  font-weight: 900;
+  color: #1f2937;
+  padding-top: 20px;
   text-align: right;
 }
 
