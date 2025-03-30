@@ -7,6 +7,20 @@
   box-sizing: border-box;
 }
 
+html {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 400;
+  font-variation-settings:
+  "wdth" 100;
+  font-size: 16px;
+}
+
+a {
+  font-family: inherit;
+}
+
 .container {
   width: 88%;
   max-width: 1200px;
@@ -81,3 +95,7 @@
   background-color: #3882f6;
 }
 
+/** FOOTER **/
+.footer {
+  text-align: center;
+}
