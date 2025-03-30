@@ -72,3 +72,12 @@
 .testimonial-sign {
   text-align: right;
 }
+
+/** ACTION **/
+.action .container {
+  display: flex;
+  justify-content: center;
+  padding: 20px 40px;
+  background-color: #3882f6;
+}
+
