@@ -97,5 +97,13 @@ a {
 
 /** FOOTER **/
 .footer {
+  padding: 20px 0;
+  background: #1f2937;
   text-align: center;
+  color: #f9faf8;
+}
+
+.footer h6 {
+  font-size: 14px;
+  font-weight: 300;
 }
