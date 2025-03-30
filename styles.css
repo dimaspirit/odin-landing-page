@@ -10,4 +10,29 @@
 .container {
   max-width: 1200px;
   margin: 0 auto;
+} 
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+}
+
+.hero {
+  display: flex;
+}
+
+.hero-info,
+.hero-img {
+  flex: 1;
+}
+
+.hero-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
